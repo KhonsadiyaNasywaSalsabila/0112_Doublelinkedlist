@@ -163,3 +163,6 @@ void traverse()
 		}
 	}
 }
+
+void revtraverse()
+{
