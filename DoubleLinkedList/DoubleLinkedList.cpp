@@ -103,3 +103,6 @@ void deleteNode()
 		return;
 
 	}
+
+	current = START;
+	previous = NULL;
