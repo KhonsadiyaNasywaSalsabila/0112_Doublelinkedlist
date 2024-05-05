@@ -73,3 +73,8 @@ void addNode()
 
 
 }
+
+bool search(int rollNo, Node** previous, Node** current)
+{
+
+}
