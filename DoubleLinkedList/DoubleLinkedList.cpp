@@ -37,3 +37,8 @@ void addNode()
 
 		}
 		
+		newNode->prev = NULL;
+		START = newNode;
+
+
+	}
