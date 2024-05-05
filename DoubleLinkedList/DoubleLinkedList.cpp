@@ -184,3 +184,6 @@ void revtraverse()
 		}
 	}
 }
+
+void searchData()
+{
